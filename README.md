@@ -24,7 +24,7 @@ This is a simple CLI-based Java program to manage student records using ArrayLis
 - Notepad
 - Github
 - Command Prompt
-- 
+  
 ## How to Run
 
 1. Clone or download this repository.
